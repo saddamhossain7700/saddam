@@ -1,0 +1,63 @@
+h1{
+    color:rgb(249, 249, 253);
+    background-color: rgb(6, 7, 7);
+    height: 40px;
+    width: 50%;
+    
+}
+.school h2{
+    text-align: center;
+    font-size: 50px;
+}
+.school p{
+    font-size: 30px;
+    text-align: justify;
+}
+div{
+    border: 10px dashed black;
+    border-radius: 50px;
+    margin :1%;
+    
+    width: 28%;
+    padding: 1%;
+    display: inline-block;
+
+}
+b{
+    color:hsl(0, 100%, 50%);
+}
+a{
+    color: rgb(245, 4, 4);
+}
+img{
+    width: 10%;
+}
+p{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
+#don{
+    color: firebrick;
+    font-size: 30px;
+    font-style: normal;
+}
+.friend{
+    color: fuchsia;
+    font-size: 40px;
+    font-weight: 10%;
+    font-style: italic;
+    font-family: sans-serif;
+    background-color: khaki;
+    width: 50%;
+}
+li.friend{
+    width: 12%;
+}
+.name{
+    color: rgb(252, 5, 5);
+   font-weight: bolder;
+}
+.hadline{
+    width: 180px;
+}
